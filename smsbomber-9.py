@@ -1,4 +1,4 @@
-# note : some codes are collected from KING OF SHADHIN
+# note : some codes are collected from KING OF SHADHIN 
 
 import os,sys,time,requests,random,string
 import random
